@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 <!--
 **johanremilien/johanremilien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanremilien&layout=compact&theme=graywhite)](https://github.com/johanremilien)
 
-[![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=johanremilien&show_icons=true&include_all_commits=true&count_private=true&role=ORGANIZATION_MEMBER,COLLABORATOR&theme=graywhite)](https://github.com/johanremilien)
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+[![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=johanremilien&show_icons=true&include_all_commits=true&count_private=true&role=ORGANIZATION_MEMBER,COLLABORATOR&theme=flag-india)](https://github.com/johanremilien)
