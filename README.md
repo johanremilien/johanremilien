@@ -1,4 +1,7 @@
-### Hi there 👋🏽
+### Hi there 👋🏽 
+
+[![View Counter](https://komarev.com/ghpvc/?username=johanremilien)](https://github.com/johanremilien)
+
 
 <!--
 **johanremilien/johanremilien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=johanremilien&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://github.com/johanremilien)
+[![Stats](https://github-readme-stats.vercel.app/api?username=johanremilien&include_all_commits=true&count_private=true&show_icons=true&theme=default)](https://ko-fi.com/johanremilien)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanremilien&layout=compact&langs_count=10&card_width=445&theme=default)](https://github.com/johanremilien?tab=repositories)
-
-
-
